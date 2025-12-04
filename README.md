@@ -1,2 +1,3 @@
 # AI_Chess
-Create AI Chess Game
+
+A chess game featuring battles against an AI opponent, currently under development.
